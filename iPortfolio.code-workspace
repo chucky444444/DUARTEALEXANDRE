@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "iPortfolio",
+			"path": "iPortfolio"
+		},
+		{
+			"name": "trabalho final",
+			"path": "."
+		},
+		{
+			"path": "../1.HTML"
+		},
+		{
+			"path": "../../CARAS/json com html e javascript"
+		}
+	],
+	"settings": {}
+}
